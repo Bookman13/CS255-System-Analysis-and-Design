@@ -32,8 +32,8 @@ In future projects, I plan to continue using iterative requirements analysis, UM
 
 ## Portfolio Artifacts
 
-* **Project One:** DriverPass Business Requirements Document
-* **Project Two:** DriverPass System Design Document
+* **Project One:** CS 255 Business Requirements Document Template
+* **Project Two:** CS 255 Model Application Short Paper Template
 
 ## AI Usage Acknowledgment
 
