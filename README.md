@@ -32,8 +32,8 @@ In future projects, I plan to continue using iterative requirements analysis, UM
 
 ## Portfolio Artifacts
 
-* **Project One:** CS 255 Business Requirements Document Template
-* **Project Two:** CS 255 Model Application Short Paper Template
+* **Project One:** CS 255 Business Requirements Document Template.doc
+* **Project Two:** CS255 Project Two System Design Document.doc
 
 ## AI Usage Acknowledgment
 
